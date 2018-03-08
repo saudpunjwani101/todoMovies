@@ -1,7 +1,7 @@
 {
   "name": "todoapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/saudpunjwani101/todoMovies.git",
+  "homepage": "https://saudpunjwani101.github.io/todoMovies",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
